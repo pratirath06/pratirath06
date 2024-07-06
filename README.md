@@ -47,16 +47,16 @@ Here are some ideas to get you started:
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Aptos&weight=300&size=30&duration=2000&pause=100&color=FFFFFF&repeat=true&random=true&width=435&lines=%F0%9F%93%8A+GitHub+Stats%3A)](https://git.io/typing-svg)
 ![](https://github-readme-stats.vercel.app/api?username=pratirath06&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pratirath06&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pratirath06&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pratirath06&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pratirath06&theme=github_dark&utcOffset=5.30)
-![](https://github-contributor-stats.vercel.app/api?username=pratirath06&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pratirath06&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pratirath06&theme=github_dark)<br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pratirath06&theme=github_dark&utcOffset=5.30)<br/>
+![](https://github-contributor-stats.vercel.app/api?username=pratirath06&limit=5&theme=dark&combine_all_yearly_contributions=true)<br/>
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Aptos&weight=300&size=30&duration=2000&pause=100&color=FFFFFF&random=true&width=435&lines=%F0%9F%8F%86+GitHub+Trophies+%3A)](https://git.io/typing-svg)
 ![](https://github-profile-trophy.vercel.app/?username=pratirath06&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Aptos&weight=300&size=30&duration=2000&pause=100&color=FFFFFF&random=true&width=435&lines=%E2%9C%8D%EF%B8%8F+Random+Dev+Quote+%3A)](https://git.io/typing-svg)
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
 [![](https://visitcount.itsvg.in/api?id=pratirath06&icon=0&color=0)](https://visitcount.itsvg.in)
